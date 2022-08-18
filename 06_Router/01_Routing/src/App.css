@@ -1,0 +1,10 @@
+.navigation {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+.projects {
+  display: flex;
+  flex-flow: column nowrap;
+}
